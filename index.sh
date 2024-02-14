@@ -10,6 +10,7 @@ download_url="${git_proxy}/${git_url}/${git_repo}/releases/download/${version}/$
 turquoise='\033[38;2;32;178;170m'
 red='\e[91m'
 light_blue='\033[38;2;173;216;230m'
+yellow='\e[33m'
 # 结束彩色文本的标记
 reset='\e[0m'
 # 输出标记
