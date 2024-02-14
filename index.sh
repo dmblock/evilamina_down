@@ -1,6 +1,5 @@
 #levilamina_down
 
-https://github.com/LiteLDev/LeviLamina/releases/download/v0.8.1/levilamina-release-windows-x64.zip
 git_proxy="https://github.moeyy.xyz"
 git_url="https://github.com"
 git_repo="LiteLDev/LeviLamina"
