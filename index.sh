@@ -26,7 +26,7 @@ update_time() {
 version_input_check="$(cat versions.txt)"
 version_list="$(curl -s https://git.lantian.pro/ltcontainer/levilamina_down/raw/master/version_list/versions.txt)"
 update_time
-echo -e "${current_time} ${log_info} 正在开始下载LeviLamin"
+echo -e "${current_time} ${log_info} 正在开始下载LeviLamina"
 update_time
 echo -e "${current_time} ${log_info} 请选择要下载的版本${green}(建议选择最新版本，按下回车键自动选择最新版本)"
 while true;do
