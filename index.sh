@@ -87,9 +87,6 @@ if echo "${version_list}" | grep -q "${input}"; then
   rm README.md
   update_time
   echo -e "${current_time} ${log_info} 清理完成"
-  rm ${git_assets}
-    update_time
-  echo -e "${current_time} ${log_info} 删除完成"
   break
   exit 0
   else
