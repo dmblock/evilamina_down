@@ -1,4 +1,3 @@
-#levilamina_down
 git_proxy="https://github.moeyy.xyz"
 git_url="https://github.com"
 git_repo="LiteLDev/LeviLamina"
